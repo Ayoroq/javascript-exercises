@@ -1,3 +1,11 @@
+# My Solutions for The Odin Project's JavaScript Exercises
+
+> [NOTE]
+> This repository contains my personal solutions to the JavaScript exercises from [The Odin Project's curriculum](https://www.theodinproject.com). The original repository with the exercises can be found [here](https://github.com/TheOdinProject/javascript-exercises). The original README is preserved below for context.
+>Once an exercise has also been completed, the official solution is deleted leaving only my solution present in the folder. Please visit the original repo for the official solution.
+
+---
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
